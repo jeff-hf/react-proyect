@@ -1,0 +1,21 @@
+@import "/src/styles/variables.scss";
+
+.lugares{
+    display: flex;
+    flex-direction: column;
+    padding: 2vh 2vw;
+    .lugarTittle{
+        text-align: center;
+        font-weight: bold;
+        color: $celeste;
+        padding-bottom: 2vh;
+    }
+    .Lugar{
+        width: 40%;
+        margin: 0 auto;
+    }
+    .col-12{
+        height: 300px;
+    }
+}
+

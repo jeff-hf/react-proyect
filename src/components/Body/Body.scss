@@ -1,0 +1,28 @@
+@import "/src/styles/variables.scss";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,400&display=swap');
+
+.eslogan{
+    display: flex;
+    justify-content: center;
+    padding: 3vh 0vw;
+    div{
+      display: flex;
+      flex-direction: column;
+      img{
+        margin: 0 auto;
+        width: 20vw;
+      }
+      h3{
+        font-weight: bold;
+        text-align: center;
+        color: $verde;
+      }
+      p{
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
+        width: 50%;
+        margin: 0 auto;
+        color: $celeste;
+      }
+    }
+  }

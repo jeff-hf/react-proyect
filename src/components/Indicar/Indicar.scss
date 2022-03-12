@@ -1,0 +1,26 @@
+@import "/src/styles/variables.scss";
+
+.fechas{
+    .tittle{
+      text-align: center;
+      color: $celeste;
+    }
+    div{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      div{
+      display: flex;
+      flex-direction: column;
+      padding: 0vh 3vw;
+      .botonMas{  
+        border-radius: 0% 30% 0% 30%;
+        border: 2px solid $celeste;
+        background: $verde;
+        font-weight: bold;
+        color: $blanco;
+        margin: 0.5vh 0vw;
+      }
+      }
+    }
+  }

@@ -1,0 +1,24 @@
+@import "/src/styles/variables.scss";
+
+nav{
+    background: $celeste;
+    img{
+      width: 10%;
+    }
+    .navbar-nav{
+      a{
+        color: $verde;
+        font-weight: bold;
+        font-size: 1.2rem;
+        cursor: pointer;
+        text-decoration: none;
+        padding: 0vh 0.5vw;
+      }
+      a:hover{
+        color: $blanco;
+      }
+    }
+    button{
+      color: $verde;
+    }
+  }

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name" : "Botadero 1",
+        "location" : "Lopez Mateo",
+        "state" : true
+    },
+    {
+        "id": 2,
+        "name" : "Frente Torre",
+        "platform" : "Lopez Mateo",
+        "state" : false
+    },
+    {
+        "id": 3,
+        "name" : "Triangulo",
+        "platform" : "San Martín",
+        "state" : true
+    },
+    {
+        "id": 4,
+        "name" : "Frente escuela",
+        "platform" : "San Martín",
+        "state" : true
+    },
+    {
+        "id": 5,
+        "name" : "Frente Iglesia",
+        "platform" : "Lopez Mateo",
+        "state" : true
+    },
+    {
+        "id": 6,
+        "name" : "Guindo",
+        "platform" : "San Sebastián",
+        "state" : true
+    }
+]

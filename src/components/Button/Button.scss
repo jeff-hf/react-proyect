@@ -1,0 +1,16 @@
+@import "/src/styles/variables.scss";
+
+.boton_indicar{
+    display: flex;
+    flex-direction: column;
+    padding: 9.2vh 0vw;
+   .indicar{
+    margin: 0 auto;
+    padding: 2vh 2vw;
+    border-radius: 0% 30% 0% 30%;
+    border: 2px solid $celeste;
+    background: $verde;
+    color: $blanco;
+    font-weight: bold;
+    }
+}
